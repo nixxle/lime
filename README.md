@@ -47,9 +47,9 @@ Development Builds
 
 When there are changes, Lime is built nightly. Builds are available for download [here](http://www.openfl.org/builds/lime).
 
-To install a development build, use the "haxelib local" command:
+To install a development build, you can simply use the 'install' command:
 
-    haxelib local filename.zip
+    haxelib install filename.zip
 
 
 Building from Source
